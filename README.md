@@ -15,7 +15,7 @@ created by Jesse Davids.
 
 ![title](IMG_3486.jpg) </br>
     
-3. Took a piece of patch panel apart and connected it in-line with the RJ45 connector of the sensor. </br>
+2. Took a piece of patch panel apart and connected it in-line with the RJ45 connector of the sensor. </br>
 
 ![title](IMG_3478.jpg) </br>
     
@@ -23,7 +23,7 @@ created by Jesse Davids.
     
 ![title](IMG_3486.jpg) </br>
     
-4. Added everything into a housing after testing. </br>
+3. Added everything into a housing after testing. </br>
 
 
 <h3>What the output should look like</h3>
