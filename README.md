@@ -9,8 +9,6 @@ created by Jesse Davids.
 * You will need a pull-up resistor, i used a 5K ohm resistor.
 * Alter code to use up to 18 sensors.
 
-<h2>Please check the pictures folder for a better understanding of the whole set-up</h2>
-
 
 <h1>Sensor modification</h1>
 1. We took old telephone cable and soldered it onto the sensor. On the other end of the cable we added a RJ45 connector. </br>
