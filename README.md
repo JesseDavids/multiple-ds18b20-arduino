@@ -14,13 +14,13 @@ created by Jesse Davids.
 
 <h1>Sensor modification</h1>
 1. We took old telephone cable and soldered it onto the sensor. On the other end of the cable we added a RJ45 connector. </br>
-    ![Sensor RJ45 cable](IMG_3486.jpg)
+    ![title](IMG_3486.jpg)
 3. Took a piece of patch panel apart and connected it in-line with the RJ45 connector of the sensor. </br>
-    ![Patch panel on the right](IMG_3478.jpg)
-    ![Board in the upper-middle](IMG_3479.jpg)
-    ![Pull-up resistor](IMG_3486.jpg)
+    ![title](IMG_3478.jpg)
+    ![title](IMG_3479.jpg)
+    ![title](IMG_3486.jpg)
 4. Added everything into a housing after testing. </br>
-    ![Final product](View recent photos.png)
+    ![title](View recent photos.png)
 
 
 
