@@ -10,3 +10,10 @@ created by Jesse Davids.
 * Alter code to use up to 18 sensors.
 
 <h2>Please check the pictures folder for a better understanding of the whole set-up</h2>
+
+
+<h1>Sensor modification</h1>
+1. We took old telephone cable and soldered it onto the sensor. </br>
+2. On the other end of the cable we added a RJ45 connector. </br>
+3. Took a piece of patch panel apart and connected it in-line with the RJ45 connector of the sensor. </br>
+4. Added everything into a housing after testing. </br>
