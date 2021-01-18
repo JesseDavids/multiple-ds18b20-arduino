@@ -26,4 +26,4 @@ created by Jesse Davids.
 
 <h3>What the output should look like</h3>
 
-![alt text](fridgeproject.png)
+![title](DS18B20 project images/fridgeproject.png)
