@@ -14,16 +14,16 @@ created by Jesse Davids.
 
 <h1>Sensor modification</h1>
 1. We took old telephone cable and soldered it onto the sensor. On the other end of the cable we added a RJ45 connector. </br>
-    ![Sensor RJ45 cable](DS18B20 project images/IMG_3486.jpg)
+    ![Sensor RJ45 cable](IMG_3486.jpg)
 3. Took a piece of patch panel apart and connected it in-line with the RJ45 connector of the sensor. </br>
-    ![Patch panel on the right](DS18B20 project images/IMG_3478.jpg)
-    ![Board in the upper-middle](DS18B20 project images/IMG_3479.jpg)
-    ![Pull-up resistor](DS18B20 project images/IMG_3486.jpg)
+    ![Patch panel on the right](IMG_3478.jpg)
+    ![Board in the upper-middle](IMG_3479.jpg)
+    ![Pull-up resistor](IMG_3486.jpg)
 4. Added everything into a housing after testing. </br>
-    ![Final product](DS18B20 project images/View recent photos.png)
+    ![Final product](View recent photos.png)
 
 
 
 <h3>What the output should look like</h3>
 
-![title](DS18B20 project images/fridgeproject.png)
+![title](fridgeproject.png)
